@@ -18,6 +18,6 @@ Análise de Desempenho em Diferentes Cenários
 
 Medição de Desempenho
 
-✔️ Mede o tempo de execução de cada algoritmo corretamente.
-✔️ Apresenta os tempos em formato de tabela para facilitar a análise.
+✔️ Meço o tempo de execução de cada algoritmo.
+
 
