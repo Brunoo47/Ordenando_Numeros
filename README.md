@@ -12,8 +12,8 @@ Análise de Desempenho em Diferentes Cenários
 ✔️ Listas pequenas (10 a 100 elementos)
 ✔️ Listas médias (1.000 a 10.000 elementos)
 ✔️ Listas grandes (100.000 elementos ou mais)
-✔️ Listas já ordenadas (caso melhor)
-✔️ Listas reversamente ordenadas (caso pior)
+✔️ Listas já ordenadas (melhor caso)
+✔️ Listas reversamente ordenadas (pior caso)
 ✔️ Listas com muitos elementos duplicados
 
 Medição de Desempenho
