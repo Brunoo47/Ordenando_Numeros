@@ -25,7 +25,7 @@ public class ArrayGenerator {
             array[i] = array[size - i - 1];
             array[size - i - 1] = temp;
         }
-       // return array;
+        return array;
     }
 
     public static int[] generateDuplicatedArray(int size, int uniqueValues) {
