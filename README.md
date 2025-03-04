@@ -1,5 +1,5 @@
 # Ordenando_Numeros
-Nesse pequeno projeto de lógica de programação, vamos ordenar uma lista de números usando os métodos QuickSort ○​ MergeSort ○​ BubbleSort, utilizando Java 17 
+Nesse pequeno projeto de lógica de programação, vamos ordenar uma lista de números usando os métodos QuickSort ○​ MergeSort ○​ BubbleSort, utilizando Java 17 (puro) 
 
 Implementação de Três Algoritmos de Ordenação
 
